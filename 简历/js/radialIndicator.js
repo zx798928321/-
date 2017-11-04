@@ -1,10 +1,3 @@
-/*
-    radialIndicator.js v 1.0.0
-    Author: Sudhanshu Yadav
-    Copyright (c) 2015 Sudhanshu Yadav - ignitersworld.com , released under the MIT license.
-    Demo on: ignitersworld.com/lab/radialIndicator.html
-*/
-
 (function ($, window, document) {
     "use strict";
     //circumfence and quart value to start bar from top
