@@ -5,7 +5,7 @@
     Demo on: ignitersworld.com/lab/radialIndicator.html
 */
 
-;(function ($, window, document) {
+(function ($, window, document) {
     "use strict";
     //circumfence and quart value to start bar from top
     var circ = Math.PI * 2,
