@@ -145,13 +145,14 @@ select::-ms-expand {
     overflow: hidden;
     background-color: #10a7af;
     padding: 20px 0;
+    display: none;
     /*position: fixed;
     z-index: 1;*/
 }
 .index_headiv{
     width: 80%;
     margin: 0 auto;
-    min-width: 1024px;
+    max-width: 1024px;
     padding-left: 20px;
     padding-right: 20px;
     overflow: hidden;
