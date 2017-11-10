@@ -60,3 +60,14 @@ $("#departure").click(function(){
     $("#contact_way").val("");
     $("#say_content").val("");
 })
+
+//检测移动端
+   /* if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+         alert("正在开发移动端页面，请暂时先复制链接到pc端打开，给您带来的不便实感抱歉！");
+    } else {
+        return
+    }*/
+
+    if(navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i)){
+        alert("正在开发移动端页面，请暂时先复制链接到pc端打开，给您带来的不便实感抱歉！")
+}
