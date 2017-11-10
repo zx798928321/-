@@ -6,7 +6,7 @@
     });
 //bank_top
 window.onscroll = function () {
-    if (document.documentElement.scrollTop + document.body.scrollTop > 291) {
+    if (document.documentElement.scrollTop + document.body.scrollTop > 233) {
         document.getElementById("bank_top").style.display = "block";
     }
     else {
