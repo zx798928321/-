@@ -1279,4 +1279,31 @@ figure.effect-winston p{
     height: auto;
     display: none;
 }
+.cover_content{
+    width: 100%;
+    min-width: 320px;
+    padding: 0;
+}
+.app_downloadimg{
+    display: none;
+    float: none;
+}
+.app_downloadSlogan{
+    width: 80%;
+    margin: 0 auto;
+    float: none;
+    margin-top: 30%;
+}
+.app_downloadSlogan img:first-child{
+    width: 80%;
+    margin: 0.2rem auto;
+}
+.app_downloadSlogan img:last-child{
+    width: 60%;
+    margin: 0.5rem auto;
+}
+.close_cover{
+    width: 36px;
+    height: 36px;
+}
 }
