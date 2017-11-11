@@ -1040,3 +1040,243 @@ figure.effect-winston:hover p a:first-child i {
     color: #fff;
     margin: 0 5px 5px 5px;
 }
+
+/*wap*/
+@media (max-width: 414px){
+.index_head{
+    padding: 5px 0;
+}
+.index_banner{
+    padding: 30px 0;
+}
+.banner_content{
+    width: 85%;
+    padding: 0;
+}
+.banner_left_name{
+    float: left;
+    margin-left: 0.2rem;
+}
+.banner_left img{
+    width: 30%;
+    height: auto;
+}
+.banner_left_name h6{
+    font-size: 24px;
+    margin-top: 0.3rem;
+}
+.banner_left_name p{
+    font-size: 14px;
+    margin-top: 0.2rem;
+}
+.banner_left{
+    float: none;
+}
+.banner_right{
+    float: none;
+    margin-top: 0.2rem;
+}
+.about_us{
+    padding: 20px 0;
+}
+.about_us_content{
+    width: 100%;
+    min-width: 320px;
+}
+.head_decorate{
+    font-size: 20px;
+}
+.head_decorate:before{
+    left: 12%;
+}
+.head_decorate:after{
+    right: 12%;
+}
+.head_decorate:before, .head_decorate:after{
+   width: 80px;
+   height: 8px;
+   top: 45%;
+   display: none;
+}
+.about_us_content p{
+    width: 90%;
+    text-align: left;
+    margin-top: 0.1rem;
+}
+.education{
+    padding-top: 20px;
+    min-height: auto;
+}
+.education_content{
+    width: 100%;
+    min-width: 320px;
+    padding: 0;
+}
+.education_left{
+    width: 100%;
+    float: none;
+    padding: 0 10px;
+}
+.education_left h6{
+    font-size: 20px;
+    margin-top: 0.1rem;
+    margin-left: 5%;
+}
+.education_left_content{
+    width: 90%;
+    margin-top: 0.2rem;
+    margin-bottom: 20px;
+}
+.education_left_content li span{
+    height: 50px;
+}
+.education_left_content li span strong{
+    padding-left: 10px;
+    line-height: 50px;
+}
+.education_left_content li span em{
+    padding-left: 20px;
+    line-height: 50px;
+    font-size:14px;
+}
+.education_right{
+    width: 100%;
+    float: none;
+    min-height: auto;
+    padding: 20px 0;
+}
+.education_right_content{
+    width: 100%;
+}
+.education_right_content h6{
+    margin-top: 0.1rem;
+    margin-bottom: 0.3rem;
+}
+.education_right_content li div canvas{
+    width: 100% !important; 
+    height: auto !important;
+}
+.education_right_content h6{
+    font-size: 20px;
+}
+.education_right_content li p{
+    font-size: 14px;
+    margin: 10px 0;
+}
+.experience{
+    padding: 20px 0;
+}
+.experience_content{
+    width:100%;
+    min-width: 320px;
+}
+.firm_experience h6{
+    font-weight: 600;
+    color: #395068;
+}
+.position_style{
+    font-weight: 500;
+}
+.firm_experience{
+    margin-top: 0.2rem;
+}
+.milestone{
+    padding: 20px 0;
+}
+.milestone_content{
+    width: 100%;
+    min-width: 320px;
+}
+.grid{
+    width: 100%;
+    padding: 0;
+    margin-top: 0.2rem;
+}
+.grid figure{
+    width: 100%;
+    margin: 0.1rem 0;
+}
+.grid figure figcaption{
+    padding: 0.4rem;
+}
+figure.effect-winston h2{
+    font-size: 18px;
+    line-height: 36px;
+}
+.grid figure h2 span{
+    padding-top: 0.2rem;
+}
+figure.effect-winston p{
+    padding: 0 0.2rem 0.2rem 0;
+}
+.favorite{
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+.favorite_content{
+    width: 100%;
+    min-width: 320px;
+    padding: 0;
+}
+.favorite_content ul{
+    width: 100%;
+    padding-top: 0.2rem;
+}
+.favorite_content ul li{
+    height: 160px;
+}
+.favorite_content ul li:nth-child(1), .favorite_content ul li:nth-child(4), .favorite_content ul li:nth-child(5), .favorite_content ul li:nth-child(8){
+    width: 40%;
+}
+.favorite_content ul li:nth-child(2), .favorite_content ul li:nth-child(3), .favorite_content ul li:nth-child(6), .favorite_content ul li:nth-child(7){
+    width: 60%;
+}
+.favorite_content ul li div{
+    margin-top: 0.2rem;
+    font-size: 16px;
+}
+.favorite_content ul li h6{
+    line-height: 160px;
+}
+.favorite_content ul li p{
+    width: 70%;
+    margin-top: 0.1rem;
+    font-size: 12px;
+}
+.textr{
+    padding-right: 10px;
+}
+.textl{
+    padding-left: 10px;
+}
+.contact{
+    padding: 20px 0;
+}
+.contact_content{
+    width: 100%;
+    min-width: 320px;
+}
+.head_decorata:before, .head_decorata:after{
+    display: none;
+}
+.contact_content ul{
+    margin-top: 0.2rem;
+}
+.contact_content ul li{
+    width: 100%;
+    float: none;
+    overflow: hidden;
+}
+.contact_frame{
+    width: 100%;
+    height: auto;
+}
+.contact_frame strong{
+    margin-bottom: 35px;
+}
+.contact_content ul li iframe, .contact_content ul li iframe div{
+    width: 100% !important;
+    height: auto;
+    display: none;
+}
+}
