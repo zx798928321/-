@@ -36,6 +36,13 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.iconfonte{
+  font-family:"iconfont" !important;
+  font-size:36px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
 }
 .icon-dayin:before { content: "\e629"; }
