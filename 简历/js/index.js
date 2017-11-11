@@ -68,6 +68,6 @@ $("#departure").click(function(){
         return
     }*/
 
-    if(navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i)){
+   /* if(navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i)){
         alert("正在开发移动端页面，请暂时先复制链接到pc端打开，给您带来的不便实感抱歉！")
-}
+}*/
